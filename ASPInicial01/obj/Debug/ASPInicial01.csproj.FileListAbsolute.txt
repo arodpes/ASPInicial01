@@ -1,0 +1,5 @@
+c:\users\arodpes\documents\visual studio 2010\Projects\ASPInicial01\ASPInicial01\bin\ASPInicial01.dll
+c:\users\arodpes\documents\visual studio 2010\Projects\ASPInicial01\ASPInicial01\bin\ASPInicial01.pdb
+c:\users\arodpes\documents\visual studio 2010\Projects\ASPInicial01\ASPInicial01\obj\Debug\ResolveAssemblyReference.cache
+c:\users\arodpes\documents\visual studio 2010\Projects\ASPInicial01\ASPInicial01\obj\Debug\ASPInicial01.dll
+c:\users\arodpes\documents\visual studio 2010\Projects\ASPInicial01\ASPInicial01\obj\Debug\ASPInicial01.pdb
