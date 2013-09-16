@@ -3,3 +3,8 @@ c:\users\arodpes\documents\visual studio 2010\Projects\ASPInicial01\ASPInicial01
 c:\users\arodpes\documents\visual studio 2010\Projects\ASPInicial01\ASPInicial01\obj\Debug\ResolveAssemblyReference.cache
 c:\users\arodpes\documents\visual studio 2010\Projects\ASPInicial01\ASPInicial01\obj\Debug\ASPInicial01.dll
 c:\users\arodpes\documents\visual studio 2010\Projects\ASPInicial01\ASPInicial01\obj\Debug\ASPInicial01.pdb
+C:\Users\arodpes\Desktop\DSW\01ASP.NET\03ASPNETInserciónCódigo\ASPInicial01\ASPInicial01\bin\ASPInicial01.dll
+C:\Users\arodpes\Desktop\DSW\01ASP.NET\03ASPNETInserciónCódigo\ASPInicial01\ASPInicial01\bin\ASPInicial01.pdb
+C:\Users\arodpes\Desktop\DSW\01ASP.NET\03ASPNETInserciónCódigo\ASPInicial01\ASPInicial01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arodpes\Desktop\DSW\01ASP.NET\03ASPNETInserciónCódigo\ASPInicial01\ASPInicial01\obj\Debug\ASPInicial01.dll
+C:\Users\arodpes\Desktop\DSW\01ASP.NET\03ASPNETInserciónCódigo\ASPInicial01\ASPInicial01\obj\Debug\ASPInicial01.pdb

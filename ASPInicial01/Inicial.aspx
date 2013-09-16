@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>Primeron actualizado</title>
+    <title>Primero</title>
 </head>
 <body>
     <div>
